@@ -359,7 +359,7 @@ public class MyStepdefs {
     @Given("OnlineShopping  given")
     public void onlineshoppingGiven() {
         String result = "online";
-        assertEquals(result.length(), 123);
+        assertEquals(result.length(), 6);
 
     }
 
